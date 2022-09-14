@@ -14,5 +14,5 @@ O grande desafio que encontrei neste projeto foi desenvolver os eventos com Java
 </div>
 
 ## Vizualização
-Pode acessar a página através do link a seguir: 
+Pode acessar a página através do link a seguir: https://emanuelly-wolski.github.io/lista-de-tarefas/
 [<img src="./lista-de-tarefas.gif" alt="gif do site">]
